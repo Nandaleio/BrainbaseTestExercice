@@ -1,0 +1,9 @@
+table {
+    width: 100%;
+}
+
+.disabledRow {
+    background-color: #f8d7da;
+    color: #8d2e36 !important;
+    /* text-decoration: line-through; */
+}
