@@ -1,7 +1,6 @@
 # BrainbaseTestExercice
 
-The app is available [here](https://nandaleio.github.io/BrainbaseTestExercice/) 
-thanks to GitHub Pages
+**You should put the API key in the env file after pull the project !!!**
 
 ## Deploying the app
 Copy past the docs folder content into any web server.
